@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_section_hhs",
+  "info": {
+    "displayName": "hh"
+  },
+  "options": {},
+  "attributes": {
+    "k": {
+      "type": "string"
+    }
+  }
+}
