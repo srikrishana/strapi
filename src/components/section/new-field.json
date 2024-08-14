@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_section_new_fields",
+  "info": {
+    "displayName": "newField"
+  },
+  "options": {},
+  "attributes": {
+    "button": {
+      "type": "string"
+    }
+  }
+}
